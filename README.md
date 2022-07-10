@@ -1,5 +1,8 @@
 # LIBS
 Personal Altium libs repository
+## Usage
+- Add the whole 'Altium' folder contents to your altium project
+- Use 'Components' panel to access and place the database components (available via 'Panels' menu at the bottom right of the window)
 ## Conventions
 ### Schematics
 - Only black and white colors
