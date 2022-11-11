@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\User\Desktop\Repos\LIBS\Altium\DB.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=E:\Git\Titanius\LIBS\Altium\DB.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=..\Library
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=ICs$
+LastFocusedTable=C$
 [Table1]
 SchemaName=
 TableName=C$
@@ -50,9 +50,6 @@ TableName=ICs$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=238|Library Ref0=207|Library Path0=134|Description0=394|Footprint Ref0=290|Footprint Ref 20=153|Footprint Path0=150|Comment0=238|Manufacturer0=389|Manufacturer Part Number0=247|Supplier 10=116|Supplier Part Number 10=247|Supplier 20=116|Supplier Part Number 20=220
 [Table6]
 SchemaName=
 TableName=L$
